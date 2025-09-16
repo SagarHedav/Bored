@@ -50,3 +50,9 @@ cd bored
 npm install
 node index.js
 
+📌 Future Improvements
+	•	⭐ Save favorite activities
+	•	📜 Show multiple suggestions instead of just one
+	•	➕ Add more participant options
+	•	🌙 Dark mode support
+
