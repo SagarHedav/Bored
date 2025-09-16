@@ -40,5 +40,13 @@ Whenever you’re bored, this app suggests random activities or lets you filter 
 ⸻
 
 📷 Demo Preview
+<img width="1710" height="968" alt="Screenshot 2025-09-16 at 11 21 37 AM" src="https://github.com/user-attachments/assets/322b83c9-ce21-4923-b4b2-63ee4ab40173" />
 
-(Here you can add screenshots of your website UI — form, activity card, error message, etc.)
+⚡ Getting Started
+
+Clone the repo and run locally:
+git clone https://github.com/SagarHedav/bored.git
+cd bored
+npm install
+node index.js
+
